@@ -5,7 +5,7 @@
 Simple convolutional model for audio classification, trained on MFCC features.
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="550" height="220" src="/images/nn-scheme.png">
 </p>
 
 
